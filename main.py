@@ -1,4 +1,5 @@
-def main():
-  print("Finn Tech")
+def main(name):
+  print(name)
  
-main()
+main("FINN")
+
